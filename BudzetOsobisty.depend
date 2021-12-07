@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1638832953 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\auxiliarymethods.cpp
+	"AuxiliaryMethods.h"
+
+1638797163 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\date.cpp
+	"Date.h"
+	<sstream>
+
+1638823386 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\datemanager.cpp
+	"DateManager.h"
+	"Windows.h"
+
+1638797163 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\filewithexpenses.cpp
+	"FileWithExpenses.h"
+	"Markup.h"
+
+1638797163 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\filewithincomes.cpp
+	"FileWithIncomes.h"
+	"Markup.h"
+
+1638797163 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\filewithusers.cpp
+	"FileWithUsers.h"
+	"Markup.h"
+
+1638797163 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\filexml.cpp
+	"FileXML.h"
+
+1638797163 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\item.cpp
+	"Item.h"
+
+1638830360 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\itemmanager.cpp
+	"ItemManager.h"
+
+1638797163 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\user.cpp
+	"User.h"
+
+1638832595 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\usermanager.cpp
+	"UserManager.h"
+	"FileWithUsers.h"
+
+1638816128 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\personalbudget.cpp
+	"PersonalBudget.h"
+
+1638816103 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\main.cpp
+	<iostream>
+	"PersonalBudget.h"
+
+1638797257 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\personalbudget.h
+	<iostream>
+	"UserManager.h"
+	"ItemManager.h"
+
+1638797257 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\usermanager.h
+	<iostream>
+	<vector>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	"User.h"
+	"FileWithUsers.h"
+	"FileXML.h"
+
+1638797257 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\user.h
+	<iostream>
+
+1638797257 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"User.h"
+	"AuxiliaryMethods.h"
+	"FileXML.h"
+	"Markup.h"
+
+1638797163 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\auxiliarymethods.h
+	<iostream>
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+
+1638797257 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\filexml.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+
+1638797257 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\item.h
+	<iostream>
+
+1638816153 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\itemmanager.h
+	<iostream>
+	<vector>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<cmath>
+	"Item.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	"DateManager.h"
+
+1638797257 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Item.h"
+	"AuxiliaryMethods.h"
+	"FileXML.h"
+
+1638797257 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Item.h"
+	"AuxiliaryMethods.h"
+	"FileXML.h"
+
+1638797257 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\date.h
+	<iostream>
+
+1303067212 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1303067212 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1638823393 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\datemanager.h
+	<iostream>
+	<ctime>
+	<string>
+	<sstream>
+	<windows.h>
+	"AuxiliaryMethods.h"
+	"Date.h"
+
