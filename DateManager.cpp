@@ -133,11 +133,25 @@ bool DateManager :: checkIfYearIsLeapYear(int year) {
         return false;
 }
 
-bool DateManager::checkIfFirstProvidedDateIsEarlierOrDifferentThanSecond(int firstProvidedDate, int secondProvidedDate) {
+bool DateManager::checkIfFirstProvidedDateIsEarlierThanSecond(int firstProvidedDate, int secondProvidedDate) {
     if(firstProvidedDate >= secondProvidedDate) {
         return false;
     } else
         return true;
+}
+
+bool DateManager::checkIfProvidedDateRangeConsistsOfTwoDates(string providedStringDateRange)
+{
+    int sizeOFProvidedRange = 0;
+    sizeOFProvidedRange = providedStringDateRange.length();
+    if(sizeOFProvidedRange == 21)
+    {
+        cout << "dupa" <<endl;
+        system("pause");
+        return true;
+    }
+    else
+        return false;
 }
 
 

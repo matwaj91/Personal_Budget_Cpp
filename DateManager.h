@@ -33,7 +33,8 @@ public:
     bool checkIfMonthIsCorrect(int month);
     bool checkIfYearIsCorrect(int year);
     bool checkIfYearIsLeapYear(int year);
-    bool checkIfFirstProvidedDateIsEarlierOrDifferentThanSecond(int firstProvidedDate, int secondProvidedDate);
+    bool checkIfFirstProvidedDateIsEarlierThanSecond(int firstProvidedDate, int secondProvidedDate);
+    bool checkIfProvidedDateRangeConsistsOfTwoDates(string providedStringDateRange);
 };
 
 #endif

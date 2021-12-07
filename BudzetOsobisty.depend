@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1638832953 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\auxiliarymethods.cpp
+1638833810 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\auxiliarymethods.cpp
 	"AuxiliaryMethods.h"
 
 1638797163 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\date.cpp
 	"Date.h"
 	<sstream>
 
-1638823386 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\datemanager.cpp
+1638885806 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\datemanager.cpp
 	"DateManager.h"
 	"Windows.h"
 
@@ -28,13 +28,13 @@
 1638797163 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\item.cpp
 	"Item.h"
 
-1638830360 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\itemmanager.cpp
+1638885549 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\itemmanager.cpp
 	"ItemManager.h"
 
 1638797163 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\user.cpp
 	"User.h"
 
-1638832595 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\usermanager.cpp
+1638833389 source:e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\usermanager.cpp
 	"UserManager.h"
 	"FileWithUsers.h"
 
@@ -137,7 +137,7 @@
 	<string>
 	<afx.h>
 
-1638823393 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\datemanager.h
+1638885471 e:\przysz£y programista\aplikacja do planowania bud¯etu\budzetosobisty\datemanager.h
 	<iostream>
 	<ctime>
 	<string>
