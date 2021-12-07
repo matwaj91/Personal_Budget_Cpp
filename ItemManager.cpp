@@ -369,8 +369,7 @@ void ItemManager::displayBalanceForChosenPeriod() {
     do {
         cout << "Please provide two dates in format 'YYYY-MM-DD YYYY-MM-DD'(earlier date and then later date). They should be in the range from 2000-01-01 to the last day of the current month: ";
         providedStringDateRange  = AuxiliaryMethods::loadLine();
-        if(providedStringDateRange.length() == 21)
-        {
+        if(providedStringDateRange.length() == 21) {
             firstProvidedStringDate = providedStringDateRange.substr(0,10);
             secondProvidedStringDate = providedStringDateRange.substr(11,20);
         }

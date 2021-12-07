@@ -140,17 +140,12 @@ bool DateManager::checkIfFirstProvidedDateIsEarlierThanSecond(int firstProvidedD
         return true;
 }
 
-bool DateManager::checkIfProvidedDateRangeConsistsOfTwoDates(string providedStringDateRange)
-{
+bool DateManager::checkIfProvidedDateRangeConsistsOfTwoDates(string providedStringDateRange) {
     int sizeOFProvidedRange = 0;
     sizeOFProvidedRange = providedStringDateRange.length();
-    if(sizeOFProvidedRange == 21)
-    {
-        cout << "dupa" <<endl;
-        system("pause");
+    if(sizeOFProvidedRange == 21) {
         return true;
-    }
-    else
+    } else
         return false;
 }
 
